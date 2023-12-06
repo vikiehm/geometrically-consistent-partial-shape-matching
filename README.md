@@ -1,1 +1,1 @@
-# geometrically-consistent-partial-shape-matching
+# Geometrically Consistent Partial Shape Matching
